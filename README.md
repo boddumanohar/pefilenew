@@ -1,2 +1,2 @@
 # pdfparse
-Parses PDF files and finds whether it is malicious. 
+Parses PE Files and gives information about it.
